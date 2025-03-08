@@ -23,6 +23,7 @@ WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 - Wireless Keyboard and Mouse
 - Wifi
 - Bluetooth
+- Microphone
 - Audio
 - Ethernet
 - Volume Keys
@@ -30,8 +31,7 @@ WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 - Monterey EFI is using iMac14,1(using -no_compat_check)
 - Sonoma EFI is using MacPro7,1
 ### Not Currently Working or many bugs?
-- Microphone(Will be fixed in an update)
-- AirDrop(Can't connect)
+- AirDrop(No Support on Airportitlwm
 - Touchscreen
 - Brightness key(Use function keys instead.)
 - SD Card Reader(The reader is recognized but the SD card is not.)
