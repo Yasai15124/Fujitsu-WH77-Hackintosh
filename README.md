@@ -1,7 +1,9 @@
 # Fujitsu-WH77-Hackintosh
 WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 ### Supported Version
-macOS Monterey-Sonoma
+- macOS Monterey
+- macOS Ventura(Not tested, but it probably works)
+- macOS Sonoma
 ### Specs
 - CPU Intel Core i7-4712MQ
 - RAM DDR3L 8GB+4GB
