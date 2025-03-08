@@ -6,7 +6,7 @@ macOS Monterey-Sonoma
 - CPU Intel Core i7-4712MQ
 - RAM DDR3L 8GB+4GB
 - SSD Toshiba 256GB 
-- Graphics Intel HD 4600(1536MB)
+- Graphics Intel HD Graphics 4600(1536MB)
 - Monitor 1920x1080 TFT
 - Sound ALC233
 - Touch HID-Compatible Touchscreen
