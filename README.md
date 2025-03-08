@@ -21,6 +21,7 @@ WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 - Wireless Keyboard and Mouse
 - Audio
 - Ethernet
+- Volume Keys
 ### SMBIOS
 - Monterey EFI is using iMac14,1(using -no_compat_check)
 - Sonoma EFI is using MacPro7,1
@@ -28,6 +29,7 @@ WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 - Bluetooth( Unable to connect )
 - AirDrop( Can't connect　)
 - Touchscreen
+- Brightness key
 ### How To Use?
 - For Monterey, use Monterey.zip
 - For Ventura and Sonoma, use Sonoma.zip
