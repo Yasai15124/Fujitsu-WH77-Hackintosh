@@ -28,10 +28,11 @@ WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 - Monterey EFI is using iMac14,1(using -no_compat_check)
 - Sonoma EFI is using MacPro7,1
 ### Not Currently Working or many bugs?
-- Bluetooth( Unable to connect )
-- AirDrop( Can't connect　)
+- Bluetooth(Unable to connect)
+- AirDrop(Can't connect)
 - Touchscreen
-- Brightness key
+- Brightness key(Not Working)
+- SD Card Reader(I put a kext in EFI but it doesn't work)
 ### How To Use?
 - For Monterey, use Monterey.zip
 - For Ventura and Sonoma, use Sonoma.zip
