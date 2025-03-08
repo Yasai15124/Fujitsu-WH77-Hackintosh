@@ -1,3 +1,5 @@
 # Fujitsu-WH77-Hackintosh
-Fujitsu WH77/W Hackintosh
-WH77/W is Fujitsu AIO(All-in-one) PC.
+WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
+### Supported Version
+
+| macOS |
