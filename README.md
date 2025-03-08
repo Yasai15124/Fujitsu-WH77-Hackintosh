@@ -2,4 +2,5 @@
 WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 ### Supported Version
 
-| macOS |
+| macOS | OC Version
+| ------------------|
