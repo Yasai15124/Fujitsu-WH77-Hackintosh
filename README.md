@@ -22,8 +22,8 @@ WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 - Audio
 - Ethernet
 ### SMBIOS
-Monterey EFI is using iMac14,1(using -no_compat_check)
-Sonoma EFI is
+- Monterey EFI is using iMac14,1(using -no_compat_check)
+- Sonoma EFI is using MacPro7,1
 ### Not Currently Working or many bugs?
 - Bluetooth( Unable to connect )
 - AirDrop( Can't connect　)
