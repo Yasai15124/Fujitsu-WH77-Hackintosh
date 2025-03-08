@@ -23,3 +23,5 @@ macOS Monterey-Sonoma
 - Bluetooth( Unable to connect )
 - AirDrop( Can't connect　)
 - Touchscreen
+### How To Use?
+Monterey ---
