@@ -1,3 +1,3 @@
 # Fujitsu-WH77-Hackintosh
 Fujitsu WH77/W Hackintosh
-a
+WH77/W is Fujitsu AIO(All-in-one) PC.
