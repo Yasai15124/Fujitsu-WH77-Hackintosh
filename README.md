@@ -1,5 +1,8 @@
 # Fujitsu-WH77-Hackintosh
 WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
+![Sonoma](https://raw.githubusercontent.com/Yasai15124/Fujitsu-WH77- 
+Hackintosh/refs/heads/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-03-07%2023.27.36.png
+
 ### Supported Version
 - macOS Monterey
 - macOS Ventura(Not tested, but it probably works)
