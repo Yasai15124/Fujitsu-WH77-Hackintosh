@@ -13,10 +13,13 @@ Touch HID-Compatible Touchscreen
 Wireless Intel Dual Band AC-7260
 ### What's currently working?
 - Full QE/CI(Need EDID Patch)
-Sleep
-・USB
-・Brightness
-・Wireless Keyboard and Mouse
-・Audio
-・Ethernet
-・
+- Sleep
+- USB
+- Brightness
+- Wireless Keyboard and Mouse
+- Audio
+- Ethernet
+### Not Currently Working or many bugs?
+- Bluetooth( Unable to connect )
+- AirDrop( Can't connect　)
+- Touchscreen
