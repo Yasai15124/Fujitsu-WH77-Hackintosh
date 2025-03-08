@@ -24,5 +24,4 @@ macOS Monterey-Sonoma
 - AirDrop( Can't connect　)
 - Touchscreen
 ### How To Use?
-- Monterey in the case of Download Monterey.zip
-- Ventura and Sonoma in the case of Sonoma.zip
+- In the case of Monterey on Download Monterey.zip
