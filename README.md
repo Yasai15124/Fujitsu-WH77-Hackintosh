@@ -38,3 +38,6 @@ WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 ### How To Use?
 - For Monterey, use Monterey.zip
 - For Ventura and Sonoma, use Sonoma.zip
+| MacOS | Opencore                                                  |
+| ------------------- | ------------------------------------------- |
+| BigSur - Monterrey - Ventura (OCLP) | 0.8.7 |
