@@ -3,7 +3,7 @@ WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 
 
 ### Supported Version
-- macOS Monterey
+- macOS Monterey(First version only)
 - macOS Ventura(Not tested, but it probably works)
 - macOS Sonoma
 ### Specs
@@ -15,6 +15,7 @@ WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 - Sound ALC233
 - Touch HID-Compatible Touchscreen
 - Wireless Intel Dual Band AC-7260
+- Realtek SD Reader
 ### What's currently working?
 - Full QE/CI(Need EDID Patch)
 - Sleep
@@ -26,15 +27,16 @@ WH77/W is Fujitsu(富士通) AIO(All-in-one) PC.
 - Audio
 - Ethernet
 - Volume Keys
+- Microphone
+- SD Card Reader
 ### SMBIOS
 - Monterey EFI is using iMac14,1(using -no_compat_check)
 - Sonoma EFI is using MacPro7,1
 ### Not Currently Working or many bugs?
-- Microphone(This will be fixed in the next update)
-- AirDrop(No Support on Airportitlwm
+- AirDrop(No Support on Airportitlwm)
+- Web Camera
 - Touchscreen
 - Brightness key(Use function keys instead.)
-- SD Card Reader(This will be fixed in the next update)
 ### How To Use?
 - For Monterey, use Monterey.zip
 - For Ventura and Sonoma, use Sonoma.zip
